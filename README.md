@@ -1,2 +1,1 @@
-我想吃泡芙
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanakaLun&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanakaLun&theme=merko&show_icons=true)
